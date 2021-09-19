@@ -1,0 +1,1 @@
+This project is a pretty rudimentary website with a few different recipes. It includes a home page with links to different pages containing each recipe. It was a good way to test the fundamental basics of HTML including recreating the standard HTML template, using both ordered and unordered lists, absolute and relative links, and even a bit of git.
